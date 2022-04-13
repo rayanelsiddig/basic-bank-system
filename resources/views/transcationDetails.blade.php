@@ -5,7 +5,7 @@
 
        
         <div class="card mb-3 shadow p-5 " >
-            <h4>Sending history</h4>
+            <h4> Transaction Detailsg</h4>
         <table class="table table-borderless table-hover datatables" id="dataTable-1">
             <thead>
                 <tr>
