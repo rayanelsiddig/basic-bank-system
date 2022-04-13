@@ -1,0 +1,51 @@
+body {
+    margin: auto;
+    padding: 0px;
+    /* min-height: 100vh; */
+    font-family: 'Nunito', sans-serif;
+}
+
+/* The navigation bar */
+.navbar {
+    /* overflow: hidden; */
+    background-color: #333;
+    /* position: fixed; */
+    /* top: 0; */
+    width: 100%;
+    margin-bottom: 60px;
+}
+.home{
+
+    background: url('https://images.pexels.com/photos/259132/pexels-photo-259132.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+}
+
+/* Links inside the navbar */
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+    background: #636262;
+    color: #fff;
+}
+
+.card-text {
+    line-height: 1.3
+}
+
+.footer {
+    position: fixed;
+    /* left: 0; */
+    bottom: 0;
+    padding: 15px;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
